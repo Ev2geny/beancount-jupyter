@@ -1,0 +1,7 @@
+ipywidgets
+IPython
+pandas
+plotly
+schema
+beancount
+git+https://github.com/evgeny/evbeantools.git@develop_pr
