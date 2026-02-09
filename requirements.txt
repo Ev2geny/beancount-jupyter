@@ -4,4 +4,4 @@ pandas
 plotly
 schema
 beancount
-git+https://github.com/evgeny/evbeantools.git@develop_pr
+git+https://github.com/Ev2geny/evbeantools.git@develop_pr
