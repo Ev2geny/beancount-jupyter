@@ -1,4 +1,5 @@
 ipywidgets
+anywidget
 pandas
 plotly
 schema
