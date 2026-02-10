@@ -1,4 +1,3 @@
-jupyterlab_hidecell
 ipywidgets
 anywidget
 pandas
